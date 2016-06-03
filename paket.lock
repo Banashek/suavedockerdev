@@ -1,4 +1,8 @@
 NUGET
   remote: http://api.nuget.org/v3/index.json
   specs:
-    FAKE (4.28.0)
+    FAKE (4.28)
+    FSharp.Compiler.Service (3.0)
+    FSharp.Core (4.0.0.1)
+    Suave (1.1.2)
+      FSharp.Core (>= 3.1.2.5)

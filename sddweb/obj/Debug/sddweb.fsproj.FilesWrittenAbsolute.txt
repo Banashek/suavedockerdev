@@ -1,0 +1,6 @@
+/Users/jonbanashek/Projects/fs/suavedockerdev/sddweb/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.fs
+/Users/jonbanashek/Projects/fs/suavedockerdev/build/sddweb.exe.config
+/Users/jonbanashek/Projects/fs/suavedockerdev/build/sddweb.exe.mdb
+/Users/jonbanashek/Projects/fs/suavedockerdev/build/sddweb.exe
+/Users/jonbanashek/Projects/fs/suavedockerdev/sddweb/obj/Debug/sddweb.exe
+/Users/jonbanashek/Projects/fs/suavedockerdev/sddweb/obj/Debug/sddweb.exe.mdb

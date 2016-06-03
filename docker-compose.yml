@@ -1,0 +1,7 @@
+web:
+  build: .
+  working_dir: /app
+  ports:
+    - "8083:8083"
+  volumes:
+    - .:/app

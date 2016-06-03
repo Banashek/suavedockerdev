@@ -1,0 +1,24 @@
+
+#r "../packages/Suave/lib/net40/Suave.dll"
+open Suave
+open Suave.Filters
+open Suave.Operators
+open Suave.Successful
+
+let app = OK "Hello Suave"
+(*let app =*)
+  (*choose*)
+    (*[ path "/hello" >=> OK "Hello GiET DERP" ]*)
+
+(*#if INTERACTIVE*)
+(*#else*)
+(*let config =*)
+    (*{ defaultConfig with*)
+       (*bindings = [HttpBinding.mk HTTP (IPAddress.Parse "0.0.0.0") 8083us]*)
+    (*}*)
+
+(*let _, server = startWebServerAsync config app*)
+
+(*System.Diagnostics.Process.Start("http://localhost:8011")*)
+(*System.Console.ReadLine() |> ignore*)
+(*#endif*)
